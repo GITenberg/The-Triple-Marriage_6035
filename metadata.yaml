@@ -1,0 +1,34 @@
+_repo: The-Triple-Marriage_6035
+contributor:
+  translator:
+    agent_name: Morlock, Frank J.
+    gutenberg_agent_id: '1532'
+    url: http://www.gutenberg.org/2009/agents/1532
+creator:
+  author:
+    agent_name: Destouches, Néricault
+    aliases:
+    - Destouches, Philippe Néricault
+    - Destouches, N. (Néricault)
+    - Destouches, Philippe Nericault
+    - Néricault, Philippe
+    birthdate: 1680
+    deathdate: 1754
+    gutenberg_agent_id: '1917'
+    url: http://www.gutenberg.org/2009/agents/1917
+    wikipedia: http://en.wikipedia.org/wiki/Philippe_Néricault_Destouches
+description: ''
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6035'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama -- Translations into English'
+- !lcsh 'French drama (Comedy)'
+title: The Triple Marriage
+url: http://www.gutenberg.org/ebooks/6035
