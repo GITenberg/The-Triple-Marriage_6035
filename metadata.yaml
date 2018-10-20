@@ -1,5 +1,5 @@
 _repo: The-Triple-Marriage_6035
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Morlock, Frank J.
@@ -36,5 +36,6 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'French drama -- Translations into English'
 - !lcsh 'French drama (Comedy)'
+- GITenberg
 title: The Triple Marriage
 url: http://www.gutenberg.org/ebooks/6035
